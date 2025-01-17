@@ -52,7 +52,7 @@ This project demonstrates a simple CRUD (Create, Read, Update, Delete) API built
       "name": "New Item",
       "description": "Description of the new item"
     }
-###3. Update an existing item
+### 3. Update an existing item
     PUT /items/{id}
     Updates an existing item identified by id. The request body should contain the updated name and description.
     Example Request
@@ -67,7 +67,7 @@ This project demonstrates a simple CRUD (Create, Read, Update, Delete) API built
       "name": "Updated Item",
       "description": "Updated description"
     }
-###4. Delete an item
+### 4. Delete an item
     DELETE /items/{id}
     Deletes an item identified by id.
     Example Request
