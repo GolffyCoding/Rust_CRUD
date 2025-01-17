@@ -23,9 +23,6 @@ This project demonstrates a simple CRUD (Create, Read, Update, Delete) API built
 #### Example Request
 ```bash
 curl -X GET http://127.0.0.1:3000/items
-
-
-
 Example Response
 
 [
@@ -40,7 +37,7 @@ Example Response
     "description": "Description of item 2"
   }
 ]
-2. Create a new item
+### 2. Create a new item
 POST /items
 Creates a new item. The request body should contain a name and a description.
 Example Request
@@ -55,7 +52,7 @@ Example Response
   "name": "New Item",
   "description": "Description of the new item"
 }
-3. Update an existing item
+###3. Update an existing item
 PUT /items/{id}
 Updates an existing item identified by id. The request body should contain the updated name and description.
 Example Request
@@ -70,7 +67,7 @@ Example Response
   "name": "Updated Item",
   "description": "Updated description"
 }
-4. Delete an item
+###4. Delete an item
 DELETE /items/{id}
 Deletes an item identified by id.
 Example Request
