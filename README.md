@@ -77,8 +77,9 @@ Example Request
 
 curl -X DELETE http://127.0.0.1:3000/items/f8a978ab-bd31-45f4-b040-8ac9037c5e50
 Example Response
-
 true
+
+
 Running the Project
 Clone the repository:  git clone https://github.com/your-username/rust-crud-api.git
 Change into the project directory:
