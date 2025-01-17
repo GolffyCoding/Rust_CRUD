@@ -1,0 +1,12 @@
+C:\Users\shado\OneDrive\Desktop\Rust\CRUD\rust_crud\target\debug\deps\libargon2-55c6ebdb99bceeb7.rmeta: C:\Users\shado\.cargo\registry\src\index.crates.io-6f17d22bba15001f\argon2-0.5.3\src\lib.rs C:\Users\shado\.cargo\registry\src\index.crates.io-6f17d22bba15001f\argon2-0.5.3\src\algorithm.rs C:\Users\shado\.cargo\registry\src\index.crates.io-6f17d22bba15001f\argon2-0.5.3\src\blake2b_long.rs C:\Users\shado\.cargo\registry\src\index.crates.io-6f17d22bba15001f\argon2-0.5.3\src\block.rs C:\Users\shado\.cargo\registry\src\index.crates.io-6f17d22bba15001f\argon2-0.5.3\src\error.rs C:\Users\shado\.cargo\registry\src\index.crates.io-6f17d22bba15001f\argon2-0.5.3\src\params.rs C:\Users\shado\.cargo\registry\src\index.crates.io-6f17d22bba15001f\argon2-0.5.3\src\version.rs C:\Users\shado\.cargo\registry\src\index.crates.io-6f17d22bba15001f\argon2-0.5.3\src\../README.md
+
+C:\Users\shado\OneDrive\Desktop\Rust\CRUD\rust_crud\target\debug\deps\argon2-55c6ebdb99bceeb7.d: C:\Users\shado\.cargo\registry\src\index.crates.io-6f17d22bba15001f\argon2-0.5.3\src\lib.rs C:\Users\shado\.cargo\registry\src\index.crates.io-6f17d22bba15001f\argon2-0.5.3\src\algorithm.rs C:\Users\shado\.cargo\registry\src\index.crates.io-6f17d22bba15001f\argon2-0.5.3\src\blake2b_long.rs C:\Users\shado\.cargo\registry\src\index.crates.io-6f17d22bba15001f\argon2-0.5.3\src\block.rs C:\Users\shado\.cargo\registry\src\index.crates.io-6f17d22bba15001f\argon2-0.5.3\src\error.rs C:\Users\shado\.cargo\registry\src\index.crates.io-6f17d22bba15001f\argon2-0.5.3\src\params.rs C:\Users\shado\.cargo\registry\src\index.crates.io-6f17d22bba15001f\argon2-0.5.3\src\version.rs C:\Users\shado\.cargo\registry\src\index.crates.io-6f17d22bba15001f\argon2-0.5.3\src\../README.md
+
+C:\Users\shado\.cargo\registry\src\index.crates.io-6f17d22bba15001f\argon2-0.5.3\src\lib.rs:
+C:\Users\shado\.cargo\registry\src\index.crates.io-6f17d22bba15001f\argon2-0.5.3\src\algorithm.rs:
+C:\Users\shado\.cargo\registry\src\index.crates.io-6f17d22bba15001f\argon2-0.5.3\src\blake2b_long.rs:
+C:\Users\shado\.cargo\registry\src\index.crates.io-6f17d22bba15001f\argon2-0.5.3\src\block.rs:
+C:\Users\shado\.cargo\registry\src\index.crates.io-6f17d22bba15001f\argon2-0.5.3\src\error.rs:
+C:\Users\shado\.cargo\registry\src\index.crates.io-6f17d22bba15001f\argon2-0.5.3\src\params.rs:
+C:\Users\shado\.cargo\registry\src\index.crates.io-6f17d22bba15001f\argon2-0.5.3\src\version.rs:
+C:\Users\shado\.cargo\registry\src\index.crates.io-6f17d22bba15001f\argon2-0.5.3\src\../README.md:

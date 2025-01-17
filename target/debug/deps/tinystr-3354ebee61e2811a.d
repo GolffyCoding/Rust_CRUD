@@ -1,0 +1,12 @@
+C:\Users\shado\OneDrive\Desktop\Rust\CRUD\rust_crud\target\debug\deps\libtinystr-3354ebee61e2811a.rmeta: C:\Users\shado\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tinystr-0.7.6\src\lib.rs C:\Users\shado\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tinystr-0.7.6\src\macros.rs C:\Users\shado\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tinystr-0.7.6\src\ascii.rs C:\Users\shado\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tinystr-0.7.6\src\asciibyte.rs C:\Users\shado\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tinystr-0.7.6\src\error.rs C:\Users\shado\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tinystr-0.7.6\src\int_ops.rs C:\Users\shado\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tinystr-0.7.6\src\unvalidated.rs C:\Users\shado\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tinystr-0.7.6\src\ule.rs
+
+C:\Users\shado\OneDrive\Desktop\Rust\CRUD\rust_crud\target\debug\deps\tinystr-3354ebee61e2811a.d: C:\Users\shado\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tinystr-0.7.6\src\lib.rs C:\Users\shado\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tinystr-0.7.6\src\macros.rs C:\Users\shado\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tinystr-0.7.6\src\ascii.rs C:\Users\shado\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tinystr-0.7.6\src\asciibyte.rs C:\Users\shado\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tinystr-0.7.6\src\error.rs C:\Users\shado\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tinystr-0.7.6\src\int_ops.rs C:\Users\shado\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tinystr-0.7.6\src\unvalidated.rs C:\Users\shado\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tinystr-0.7.6\src\ule.rs
+
+C:\Users\shado\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tinystr-0.7.6\src\lib.rs:
+C:\Users\shado\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tinystr-0.7.6\src\macros.rs:
+C:\Users\shado\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tinystr-0.7.6\src\ascii.rs:
+C:\Users\shado\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tinystr-0.7.6\src\asciibyte.rs:
+C:\Users\shado\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tinystr-0.7.6\src\error.rs:
+C:\Users\shado\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tinystr-0.7.6\src\int_ops.rs:
+C:\Users\shado\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tinystr-0.7.6\src\unvalidated.rs:
+C:\Users\shado\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tinystr-0.7.6\src\ule.rs:

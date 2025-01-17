@@ -1,0 +1,11 @@
+C:\Users\shado\OneDrive\Desktop\Rust\CRUD\rust_crud\target\debug\deps\libeither-d7b2dbd66b56f295.rmeta: C:\Users\shado\.cargo\registry\src\index.crates.io-6f17d22bba15001f\either-1.13.0\src\lib.rs C:\Users\shado\.cargo\registry\src\index.crates.io-6f17d22bba15001f\either-1.13.0\src\serde_untagged.rs C:\Users\shado\.cargo\registry\src\index.crates.io-6f17d22bba15001f\either-1.13.0\src\serde_untagged_optional.rs C:\Users\shado\.cargo\registry\src\index.crates.io-6f17d22bba15001f\either-1.13.0\src\iterator.rs C:\Users\shado\.cargo\registry\src\index.crates.io-6f17d22bba15001f\either-1.13.0\src\into_either.rs
+
+C:\Users\shado\OneDrive\Desktop\Rust\CRUD\rust_crud\target\debug\deps\libeither-d7b2dbd66b56f295.rlib: C:\Users\shado\.cargo\registry\src\index.crates.io-6f17d22bba15001f\either-1.13.0\src\lib.rs C:\Users\shado\.cargo\registry\src\index.crates.io-6f17d22bba15001f\either-1.13.0\src\serde_untagged.rs C:\Users\shado\.cargo\registry\src\index.crates.io-6f17d22bba15001f\either-1.13.0\src\serde_untagged_optional.rs C:\Users\shado\.cargo\registry\src\index.crates.io-6f17d22bba15001f\either-1.13.0\src\iterator.rs C:\Users\shado\.cargo\registry\src\index.crates.io-6f17d22bba15001f\either-1.13.0\src\into_either.rs
+
+C:\Users\shado\OneDrive\Desktop\Rust\CRUD\rust_crud\target\debug\deps\either-d7b2dbd66b56f295.d: C:\Users\shado\.cargo\registry\src\index.crates.io-6f17d22bba15001f\either-1.13.0\src\lib.rs C:\Users\shado\.cargo\registry\src\index.crates.io-6f17d22bba15001f\either-1.13.0\src\serde_untagged.rs C:\Users\shado\.cargo\registry\src\index.crates.io-6f17d22bba15001f\either-1.13.0\src\serde_untagged_optional.rs C:\Users\shado\.cargo\registry\src\index.crates.io-6f17d22bba15001f\either-1.13.0\src\iterator.rs C:\Users\shado\.cargo\registry\src\index.crates.io-6f17d22bba15001f\either-1.13.0\src\into_either.rs
+
+C:\Users\shado\.cargo\registry\src\index.crates.io-6f17d22bba15001f\either-1.13.0\src\lib.rs:
+C:\Users\shado\.cargo\registry\src\index.crates.io-6f17d22bba15001f\either-1.13.0\src\serde_untagged.rs:
+C:\Users\shado\.cargo\registry\src\index.crates.io-6f17d22bba15001f\either-1.13.0\src\serde_untagged_optional.rs:
+C:\Users\shado\.cargo\registry\src\index.crates.io-6f17d22bba15001f\either-1.13.0\src\iterator.rs:
+C:\Users\shado\.cargo\registry\src\index.crates.io-6f17d22bba15001f\either-1.13.0\src\into_either.rs:

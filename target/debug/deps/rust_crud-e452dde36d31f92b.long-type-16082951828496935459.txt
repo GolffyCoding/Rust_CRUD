@@ -1,0 +1,1 @@
+fn(axum::extract::State<Arc<std::sync::Mutex<Vec<Item>>>>, axum::extract::Path<Uuid>, Json<Item>) -> impl std::future::Future<Output = Json<std::option::Option<Item>>> {update_item}

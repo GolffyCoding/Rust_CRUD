@@ -1,0 +1,10 @@
+C:\Users\shado\OneDrive\Desktop\Rust\CRUD\rust_crud\target\debug\deps\libactix_utils-46e543d5c0cb65cb.rmeta: C:\Users\shado\.cargo\registry\src\index.crates.io-6f17d22bba15001f\actix-utils-3.0.1\src\lib.rs C:\Users\shado\.cargo\registry\src\index.crates.io-6f17d22bba15001f\actix-utils-3.0.1\src\counter.rs C:\Users\shado\.cargo\registry\src\index.crates.io-6f17d22bba15001f\actix-utils-3.0.1\src\future\mod.rs C:\Users\shado\.cargo\registry\src\index.crates.io-6f17d22bba15001f\actix-utils-3.0.1\src\future\either.rs C:\Users\shado\.cargo\registry\src\index.crates.io-6f17d22bba15001f\actix-utils-3.0.1\src\future\poll_fn.rs C:\Users\shado\.cargo\registry\src\index.crates.io-6f17d22bba15001f\actix-utils-3.0.1\src\future\ready.rs
+
+C:\Users\shado\OneDrive\Desktop\Rust\CRUD\rust_crud\target\debug\deps\actix_utils-46e543d5c0cb65cb.d: C:\Users\shado\.cargo\registry\src\index.crates.io-6f17d22bba15001f\actix-utils-3.0.1\src\lib.rs C:\Users\shado\.cargo\registry\src\index.crates.io-6f17d22bba15001f\actix-utils-3.0.1\src\counter.rs C:\Users\shado\.cargo\registry\src\index.crates.io-6f17d22bba15001f\actix-utils-3.0.1\src\future\mod.rs C:\Users\shado\.cargo\registry\src\index.crates.io-6f17d22bba15001f\actix-utils-3.0.1\src\future\either.rs C:\Users\shado\.cargo\registry\src\index.crates.io-6f17d22bba15001f\actix-utils-3.0.1\src\future\poll_fn.rs C:\Users\shado\.cargo\registry\src\index.crates.io-6f17d22bba15001f\actix-utils-3.0.1\src\future\ready.rs
+
+C:\Users\shado\.cargo\registry\src\index.crates.io-6f17d22bba15001f\actix-utils-3.0.1\src\lib.rs:
+C:\Users\shado\.cargo\registry\src\index.crates.io-6f17d22bba15001f\actix-utils-3.0.1\src\counter.rs:
+C:\Users\shado\.cargo\registry\src\index.crates.io-6f17d22bba15001f\actix-utils-3.0.1\src\future\mod.rs:
+C:\Users\shado\.cargo\registry\src\index.crates.io-6f17d22bba15001f\actix-utils-3.0.1\src\future\either.rs:
+C:\Users\shado\.cargo\registry\src\index.crates.io-6f17d22bba15001f\actix-utils-3.0.1\src\future\poll_fn.rs:
+C:\Users\shado\.cargo\registry\src\index.crates.io-6f17d22bba15001f\actix-utils-3.0.1\src\future\ready.rs:

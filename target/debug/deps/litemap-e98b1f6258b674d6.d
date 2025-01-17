@@ -1,0 +1,11 @@
+C:\Users\shado\OneDrive\Desktop\Rust\CRUD\rust_crud\target\debug\deps\liblitemap-e98b1f6258b674d6.rmeta: C:\Users\shado\.cargo\registry\src\index.crates.io-6f17d22bba15001f\litemap-0.7.4\src\lib.rs C:\Users\shado\.cargo\registry\src\index.crates.io-6f17d22bba15001f\litemap-0.7.4\src\map.rs C:\Users\shado\.cargo\registry\src\index.crates.io-6f17d22bba15001f\litemap-0.7.4\src\store\mod.rs C:\Users\shado\.cargo\registry\src\index.crates.io-6f17d22bba15001f\litemap-0.7.4\src\store\slice_impl.rs C:\Users\shado\.cargo\registry\src\index.crates.io-6f17d22bba15001f\litemap-0.7.4\src\store\vec_impl.rs
+
+C:\Users\shado\OneDrive\Desktop\Rust\CRUD\rust_crud\target\debug\deps\liblitemap-e98b1f6258b674d6.rlib: C:\Users\shado\.cargo\registry\src\index.crates.io-6f17d22bba15001f\litemap-0.7.4\src\lib.rs C:\Users\shado\.cargo\registry\src\index.crates.io-6f17d22bba15001f\litemap-0.7.4\src\map.rs C:\Users\shado\.cargo\registry\src\index.crates.io-6f17d22bba15001f\litemap-0.7.4\src\store\mod.rs C:\Users\shado\.cargo\registry\src\index.crates.io-6f17d22bba15001f\litemap-0.7.4\src\store\slice_impl.rs C:\Users\shado\.cargo\registry\src\index.crates.io-6f17d22bba15001f\litemap-0.7.4\src\store\vec_impl.rs
+
+C:\Users\shado\OneDrive\Desktop\Rust\CRUD\rust_crud\target\debug\deps\litemap-e98b1f6258b674d6.d: C:\Users\shado\.cargo\registry\src\index.crates.io-6f17d22bba15001f\litemap-0.7.4\src\lib.rs C:\Users\shado\.cargo\registry\src\index.crates.io-6f17d22bba15001f\litemap-0.7.4\src\map.rs C:\Users\shado\.cargo\registry\src\index.crates.io-6f17d22bba15001f\litemap-0.7.4\src\store\mod.rs C:\Users\shado\.cargo\registry\src\index.crates.io-6f17d22bba15001f\litemap-0.7.4\src\store\slice_impl.rs C:\Users\shado\.cargo\registry\src\index.crates.io-6f17d22bba15001f\litemap-0.7.4\src\store\vec_impl.rs
+
+C:\Users\shado\.cargo\registry\src\index.crates.io-6f17d22bba15001f\litemap-0.7.4\src\lib.rs:
+C:\Users\shado\.cargo\registry\src\index.crates.io-6f17d22bba15001f\litemap-0.7.4\src\map.rs:
+C:\Users\shado\.cargo\registry\src\index.crates.io-6f17d22bba15001f\litemap-0.7.4\src\store\mod.rs:
+C:\Users\shado\.cargo\registry\src\index.crates.io-6f17d22bba15001f\litemap-0.7.4\src\store\slice_impl.rs:
+C:\Users\shado\.cargo\registry\src\index.crates.io-6f17d22bba15001f\litemap-0.7.4\src\store\vec_impl.rs:

@@ -1,0 +1,12 @@
+C:\Users\shado\OneDrive\Desktop\Rust\CRUD\rust_crud\target\debug\deps\libsqlx-70a69b90d563d7ac.rmeta: C:\Users\shado\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sqlx-0.8.3\src\lib.rs C:\Users\shado\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sqlx-0.8.3\src\any\mod.rs C:\Users\shado\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sqlx-0.8.3\src\macros\mod.rs C:\Users\shado\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sqlx-0.8.3\src\ty_match.rs C:\Users\shado\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sqlx-0.8.3\src\spec_error.rs C:\Users\shado\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sqlx-0.8.3\src\lib.md C:\Users\shado\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sqlx-0.8.3\src\macros/test.md C:\Users\shado\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sqlx-0.8.3\src\any\install_drivers_note.md
+
+C:\Users\shado\OneDrive\Desktop\Rust\CRUD\rust_crud\target\debug\deps\sqlx-70a69b90d563d7ac.d: C:\Users\shado\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sqlx-0.8.3\src\lib.rs C:\Users\shado\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sqlx-0.8.3\src\any\mod.rs C:\Users\shado\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sqlx-0.8.3\src\macros\mod.rs C:\Users\shado\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sqlx-0.8.3\src\ty_match.rs C:\Users\shado\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sqlx-0.8.3\src\spec_error.rs C:\Users\shado\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sqlx-0.8.3\src\lib.md C:\Users\shado\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sqlx-0.8.3\src\macros/test.md C:\Users\shado\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sqlx-0.8.3\src\any\install_drivers_note.md
+
+C:\Users\shado\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sqlx-0.8.3\src\lib.rs:
+C:\Users\shado\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sqlx-0.8.3\src\any\mod.rs:
+C:\Users\shado\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sqlx-0.8.3\src\macros\mod.rs:
+C:\Users\shado\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sqlx-0.8.3\src\ty_match.rs:
+C:\Users\shado\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sqlx-0.8.3\src\spec_error.rs:
+C:\Users\shado\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sqlx-0.8.3\src\lib.md:
+C:\Users\shado\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sqlx-0.8.3\src\macros/test.md:
+C:\Users\shado\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sqlx-0.8.3\src\any\install_drivers_note.md:

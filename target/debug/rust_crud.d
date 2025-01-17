@@ -1,0 +1,1 @@
+C:\Users\shado\OneDrive\Desktop\Rust\CRUD\rust_crud\target\debug\rust_crud.exe: C:\Users\shado\OneDrive\Desktop\Rust\CRUD\rust_crud\src\main.rs C:\Users\shado\OneDrive\Desktop\Rust\CRUD\rust_crud\src\models.rs C:\Users\shado\OneDrive\Desktop\Rust\CRUD\rust_crud\src\storage.rs
