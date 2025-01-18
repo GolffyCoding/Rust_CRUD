@@ -78,7 +78,7 @@ This project demonstrates a simple CRUD (Create, Read, Update, Delete) API built
 
 
 Running the Project
-Clone the repository:  git clone https://github.com/your-username/rust-crud-api.git
+Clone the repository:  git clone https://github.com/GolffyCoding/Rust_CRUD.git
 Change into the project directory:
 
 
